@@ -7,19 +7,6 @@ A collaborative wishlist and travel planning web app that lets users create shar
 
 ---
 
-### 🖼 Demo (Optional)
-
-> **[Insert screenshot or link to Loom/YouTube video here]**
-
-Example:
-```
-![Wishlist Wanderlust Screenshot](wishlist-preview.jpg)
-```
-
-Or:
-> [🎬 Watch Demo on Loom](https://www.loom.com/share/demo-link)
-
----
 
 ### 🛠 Tech Stack
 
