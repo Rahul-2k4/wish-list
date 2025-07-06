@@ -1,10 +1,3 @@
-Absolutely! Below is a **clean, professional, and detailed `README.md`** file you can use for your project. It includes:
-
-- ✅ Setup instructions  
-- 🛠 Tech stack used  
-- ⚠️ Assumptions & limitations  
-- 📸 Placeholder for screenshots or demo video  
-- 💡 Ideas for scaling/improving the app  
 
 ---
 
